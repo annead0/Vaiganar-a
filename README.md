@@ -1,2 +1,4 @@
-# Vaiganar-a
+# AnneadKohl.Vaiganar 
 Travel Blog app
+Deployed on Vercel.
+
