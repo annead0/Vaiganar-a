@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+*{
+    font-family:'Inter',sans-serif;
+    background-color: rgb(88, 121, 12);
+}
+.dropdown-container{
+    border-radius:1em;
+    font: size 20px weight bold family 'Inter',sans-serif;
+    border: 1px solid aqua;
+    background-color: rgb(88, 121, 12);
+    color:white;
+}
+header{
+    border-bottom:1px solid salmon;
+    background-color: yellowgreen;
+}
+header h1{
+    font: weight bolder;
+    text-decoration: aqua dashed;
+}
+.dropdown nav{
+    display:none;
+}
+.dropdown-container:hover .dropdown:hover{
+    display:block;
+}
